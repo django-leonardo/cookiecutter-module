@@ -4,5 +4,6 @@
     "author_name": "Your Name",
     "email": "Your email",
     "description": "A short description of the project.",
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "year": "2015"
 }
