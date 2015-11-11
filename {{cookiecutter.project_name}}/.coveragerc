@@ -1,5 +1,5 @@
 [run]
-source = leonardo
+source = {{ cookiecutter.repo_name }}
 omit =
     *migrations*
-    leonardo/conf/*
+    {{ cookiecutter.repo_name }}/__init__.py
