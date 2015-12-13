@@ -1,6 +1,5 @@
 include LICENSE
 include MANIFEST.in
 include README.rst
-include cookiecutter.json
-recursive-include {{cookiecutter.project_name}} *
+recursive-include cookiecutter_leonardo_module/{{cookiecutter.project_name}} *
 recursive-include cookiecutter_leonardo_module *

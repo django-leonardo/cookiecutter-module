@@ -1,6 +1,14 @@
 CHANGES
 =======
 
+0.0.3
+-----
+
+* Move cookiecutter under python module
+
+0.0.2
+-----
+
 * Make this template installable
 * update generating tox tests
 * add docs and tests with preconfigured tox and travis
