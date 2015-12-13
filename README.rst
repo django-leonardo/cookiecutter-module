@@ -11,9 +11,10 @@ Installation
 
 .. code-block:: bash
 
-    pip install cookiecutter
+    > pip install cookiecutter-leonardo-module
 
-    cookiecutter cookiecutter-leonardo-module
+    > cookiecutter-leonardo-module
+    > project_name [leonardo-module]:
 
 Read More
 =========

@@ -1,0 +1,12 @@
+CHANGES
+=======
+
+* Make this template installable
+* update generating tox tests
+* add docs and tests with preconfigured tox and travis
+* git fix
+* add default LICENSE
+* no default dependency to leonardo
+* add gitignore
+* cleanup widget init
+* Initial commit
