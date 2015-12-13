@@ -1,8 +1,10 @@
 CHANGES
 =======
 
+0.0.3
+-----
+
 * Move cookiecutter under python module
-* Copy data files
 
 0.0.2
 -----
