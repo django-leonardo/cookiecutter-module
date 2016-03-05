@@ -1,8 +1,6 @@
 
 from django.apps import AppConfig
 
-from .widget import *
-
 default_app_config = '{{ cookiecutter.repo_name }}.Config'
 
 
