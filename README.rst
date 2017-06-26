@@ -6,14 +6,14 @@ A cookiecutter_ template for Leonardo Module.
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
 
-Installation
-============
+Usage
+=====
 
 .. code-block:: bash
 
-    > pip install cookiecutter-leonardo-module
+    > pip install cookiecutter
 
-    > cookiecutter-leonardo-module
+    > cookiecutter https://github.com/django-leonardo/cookiecutter-module
     > project_name [leonardo-module]:
 
 Read More
